@@ -1,0 +1,7 @@
+{
+  "name": "NULLXES AI",
+  "description": "Premium AI Consulting & Web Development Landing Page featuring Luna AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
